@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @foreveransh
-- 👀 I’m interested in make life simpler with coding
+- 👀 I’m interested in making life simpler with coding
 - 🌱 I’m currently learning ... how not to sleep all day
 - 💞️ I’m looking to collaborate on ... (I don't wanna collaborate)
 - 📫 How to reach me ... (You really wanna reach me?) mail me at anshsaxena4190@gmail.com
