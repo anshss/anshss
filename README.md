@@ -1,4 +1,4 @@
-# Konichiwa 👋
+# Hi👋 I'm Ansh
 
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
@@ -11,26 +11,26 @@
 
 # About ME 💬 :
 
-### - I'm 19 years  old Machine Learning & Artificial Intelligence Enthusiast from India.
+### - I'm 18 years  old Computer Science Enthusiast from India.
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
 ### - Learning :
 - ✨ Data Structures & Algorithms
-- ✨ Generative Adversarial Networks
+- ✨ Web-development
+- ✨ Java
 
 ### - Hobbies : 
 - ✨ Gaming Addict
 - ✨ Watching Anime
 - ✨ Reading Light Novels
-- ✨ Badminton (Neighbourhood Professional XD)
 
 </br>
 </br>
 </br>
 
 
-
+<!-- 
 # Languages & Tools 👨‍💻 🛠:
 </br>
 
@@ -52,7 +52,7 @@
 </p>
 </br>
 </br>
-</br>
+</br> -->
 
 
 
@@ -67,19 +67,19 @@
 
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 
-<a href="mailto:ashutosh.saxena.2001@gmail.com">
+<a href="anshsaxena4190@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
 </a>
-<a href="https://www.linkedin.com/in/ashutosh-saxena-7b326817b/">
+<a href="https://www.linkedin.com/in/ansh-saxena-25b547215/">
   <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
 </br>
 </br>
 </br>
 </a>
-<a href="https://www.reddit.com/user/X_Ashutosh_X">
+<a href="https://www.reddit.com/user/snayppyfingerss">
   <img align="left" alt=" Reddit" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/reddit.png" />
 </a>
-<a href="https://steamcommunity.com/profiles/76561198182224539/">
+<a href="https://steamcommunity.com/profiles/76561199044967142/">
   <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/steam.png" />
 </a>
  </p>
