@@ -1,4 +1,4 @@
-# Hi👋 I'm Ansh
+# Hello👋 I'm Ansh
 
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/foreveransh/foreveransh/blob/main/assets/208593.gif">
@@ -46,9 +46,9 @@
 <p>
  </br>
 
-
-<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/foreveransh/foreveransh/blob/main/assets/93195.gif">
-
+<!-- 
+<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/foreveransh/foreveransh/blob/main/assets/93195.gif"> -->
+<img hight="320" width="450" align="right" alt="GIF" src="https://c.tenor.com/-nHXOcrpjgMAAAAC/smile-anime.gif">
 
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 
