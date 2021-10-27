@@ -61,12 +61,12 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </br>
 </br>
 </a>
-<a href="https://www.reddit.com/user/snayppyfingerss">
+<!-- <a href="https://www.reddit.com/user/snayppyfingerss">
   <img align="left" alt=" Reddit" width="130" hight="100" src="https://github.com/foreveransh/foreveransh/blob/main/assets/icons/reddit.png" />
 </a>
 <a href="https://steamcommunity.com/profiles/76561199044967142/">
   <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/foreveransh/foreveransh/blob/main/assets/icons/steam.png" />
-</a>
+</a> -->
  </p>
  
 
