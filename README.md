@@ -54,6 +54,9 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
 <a href="anshsaxena4190@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/foreveransh/foreveransh/blob/main/assets/icons/gmail.png" />
+ </br>
+</br>
+</br>
 </a>
 <a href="https://www.linkedin.com/in/ansh-saxena-25b547215/">
   <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/foreveransh/foreveransh/blob/main/assets/icons/linkedin.png" />
