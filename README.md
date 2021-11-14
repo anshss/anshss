@@ -1,7 +1,12 @@
+<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+
+
+
 # Hello👋
 
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/foreveransh/foreveransh/blob/main/assets/208593.gif">
+ ![dd](https://github.com/foreveransh/foreveransh/blob/main/assets/208593.gif)
 </div>
 
 </br>
@@ -27,24 +32,27 @@
 </br>
 
 
-<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<!-- # Languages & Tools 👨‍💻 🛠:
-</br>
+
+# Technologies/Languages I know👨‍💻:
 
 <p align="center">
-
-<img src="https://github.com/foreveransh/foreveransh/blob/main/assets/icons/html.png" alt="html" width="110" hight="50">
-<img src="https://github.com/foreveransh/foreveransh/blob/main/assets/icons/js.png" alt="javascript"  width="140" hight="50">
-<img src="https://github.com/foreveransh/foreveransh/blob/main/assets/icons/java.png" alt="java" width="90" hight="50">
+ 
+ ![HTML5 Badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=white&logo=html5&logoColor=E34F26)
+ ![CSS3 Badge](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&labelColor=white&logo=css3&logoColor=1572B6)
+ ![Javascript Badge](https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&labelColor=white&logo=javascript&logoColor=F7DF1E)
+ ![React Badge](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&labelColor=white&logo=react&logoColor=61DAFB)
+ </br>
+ ![Java Badge](https://img.shields.io/badge/-Java-007396?style=for-the-badge&labelColor=white&logo=java&logoColor=007396)
+ ![Visual Studio Code Badge](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&labelColor=white&logo=visual-studio-code&logoColor=007ACC)
+ 
 </p>
 </br>
-</br> -->
+</br>
 
 
 
 # Contact Me :
 <p>
- </br>
 
 <!-- 
 <img hight="320" width="450" align="right" alt="GIF" src="https://github.com/foreveransh/foreveransh/blob/main/assets/93195.gif"> -->
