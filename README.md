@@ -60,12 +60,12 @@
 
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 
-<a href="https://codepen.io/ansh4190">
+<!-- <a href="https://codepen.io/ansh4190">
   <img align="left" alt="Codepen" width="150" hight="100" src="https://github.com/foreveransh/foreveransh/blob/main/assets/icons/linkedin.png" />
 </br>
 </br>
 </br>
-</a>
+</a> -->
 
 <a href="https://www.linkedin.com/in/ansh-saxena-25b547215/">
   <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/foreveransh/foreveransh/blob/main/assets/icons/linkedin.png" />
@@ -74,7 +74,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </br>
 </a>
 
-<a href="anshsaxena4190@gmail.com">
+<a href="mailto:anshsaxena4190@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/foreveransh/foreveransh/blob/main/assets/icons/gmail.png" />
  </br>
 </br>
