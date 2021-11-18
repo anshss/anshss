@@ -6,7 +6,6 @@
 
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/foreveransh/foreveransh/blob/main/assets/208593.gif">
- ![dd](https://github.com/foreveransh/foreveransh/blob/main/assets/208593.gif)
 </div>
 
 </br>
