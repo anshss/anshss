@@ -4,7 +4,7 @@
 
 
 
-# Hello👋
+# Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/foreveransh/foreveransh/blob/main/assets/208593.gif">
@@ -52,7 +52,7 @@
 
 
 
-# Contact Me :
+# Contact Me:
   <p>
  
 <!-- <img hight="320" width="450" align="right" alt="GIF" src="https://github.com/foreveransh/foreveransh/blob/main/assets/93195.gif"> -->
