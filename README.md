@@ -1,4 +1,6 @@
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+<!-- For more icons please follow https://reposhub.com/javascript/css/alexandresanlim-Badges4-README-md-Profile.html -->
+<!-- Or make your own badge at img.shield.io -->
 
 
 
@@ -51,41 +53,36 @@
 
 
 # Contact Me :
-<p>
+  <p>
+ 
+<!-- <img hight="320" width="450" align="right" alt="GIF" src="https://github.com/foreveransh/foreveransh/blob/main/assets/93195.gif"> -->
 
-<!-- 
-<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/foreveransh/foreveransh/blob/main/assets/93195.gif"> -->
 <img hight="320" width="450" align="right" alt="GIF" src="https://c.tenor.com/-nHXOcrpjgMAAAAC/smile-anime.gif">
 
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 
-<!-- <a href="https://codepen.io/ansh4190">
-  <img align="left" alt="Codepen" width="150" hight="100" src="https://github.com/foreveransh/foreveransh/blob/main/assets/icons/linkedin.png" />
-</br>
-</br>
-</br>
-</a> -->
-
 <a href="https://www.linkedin.com/in/ansh-saxena-25b547215/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/foreveransh/foreveransh/blob/main/assets/icons/linkedin.png" />
+  <img align="left" alt="Linkedin" width="150" hight="100" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </br>
 </br>
 </br>
 </a>
 
 <a href="mailto:anshsaxena4190@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/foreveransh/foreveransh/blob/main/assets/icons/gmail.png" />
+ <img align="left" alt="Gmail" width="150" hight="100" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
  </br>
 </br>
 </br>
 </a>
-<!-- <a href="https://www.reddit.com/user/snayppyfingerss">
-  <img align="left" alt=" Reddit" width="130" hight="100" src="https://github.com/foreveransh/foreveransh/blob/main/assets/icons/reddit.png" />
+
+<a href="https://codepen.io/ansh4190">
+  <img align="left" alt="Codepen" width="150" hight="100" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
+</br>
+</br>
+</br>
 </a>
-<a href="https://steamcommunity.com/profiles/76561199044967142/">
-  <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/foreveransh/foreveransh/blob/main/assets/icons/steam.png" />
-</a> -->
- </p>
+
+  </p>
  
 
 </br>
