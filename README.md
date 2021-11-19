@@ -84,6 +84,25 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
   </p>
  
+ 
+ 
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=foreveransh)
+
+
+<details>
+<summary> 💥 Working on </summary>
+<br>
+<p align="center">
+<a href="https://github.com/foreveransh/ansh.github.io">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=foreveransh&repo=ansh.github.io&show_owner=true&theme=react" />
+</a>&ensp;
+<a href="https://github.com/foreveransh/Deep-Learning">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=foreveransh&repo=Deep-Learning&show_owner=true&theme=react" />
+</a>
+</p>
+</details> -->
+
+
 
 </br>
 </br>
