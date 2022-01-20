@@ -61,7 +61,7 @@
 
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 
-<a href="https://www.linkedin.com/in/ansh-saxena-25b547215/">
+<a href="https://www.linkedin.com/in/anshss/">
   <img align="left" alt="Linkedin" width="150" hight="100" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </br>
 </br>
@@ -75,7 +75,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </br>
 </a>
 
-<a href="https://codepen.io/ansh4190">
+<a href="https://codepen.io/anshss">
   <img align="left" alt="Codepen" width="150" hight="100" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
 </br>
 </br>
