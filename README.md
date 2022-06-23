@@ -1,9 +1,9 @@
-## Hi guys!
+### Hi guys!
 I am 18 years undergrad from India.
 
 </br>
 
-### My tech stack:
+#### My tech stack:
 Html
 CSS
 JS </br>
