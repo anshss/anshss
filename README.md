@@ -8,9 +8,9 @@ Html
 CSS
 JS </br>
 Bootstrap Sass </br>
-React.js </br>
-Node.js
-Express.js </br>
+React Next </br>
+Node
+Express </br>
 Solidity </br>
 Ether.js </br>
 
