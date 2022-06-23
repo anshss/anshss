@@ -7,7 +7,7 @@ I am 18 years undergrad from India.
 Html
 CSS
 JS </br>
-Bootstrap </br>
+Bootstrap Sass </br>
 React.js </br>
 Node.js
 Express.js </br>
