@@ -18,6 +18,3 @@ Ether.js </br>
 
 linkedin: </br>
 https://www.linkedin.com/in/anshss/
-
-gmail: </br>
-anshspvt@gmail.com
