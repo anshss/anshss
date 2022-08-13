@@ -8,7 +8,6 @@ Html
 CSS
 JS </br>
 Bootstrap Sass </br>
-Typescript </br>
 React Next </br>
 Node
 Express </br>
