@@ -9,10 +9,11 @@ CSS
 JS </br>
 Bootstrap Sass </br>
 React Next </br>
-Node
-Express </br>
+Node Express </br>
+MongoDB </br>
 Solidity </br>
 Ether.js </br>
+IPFS </br>
 
 </br>
 
