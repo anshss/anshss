@@ -8,14 +8,19 @@ Html
 CSS
 JS </br>
 Bootstrap Sass </br>
-React Next </br>
-Node Express </br>
-MongoDB </br>
+React </br>
+Next </br>
+Node.js </br>
 Solidity </br>
 Ether.js </br>
 IPFS </br>
+Lens </br>
 
+</br>
 </br>
 
 linkedin: </br>
 https://www.linkedin.com/in/anshss/
+
+portfolio: </br>
+https://anshss.github.io/portfolio/
