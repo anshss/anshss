@@ -14,7 +14,7 @@ Node.js </br>
 Solidity </br>
 Ether.js </br>
 IPFS </br>
-Lens </br>
+Lens Chainlink </br>
 
 </br>
 </br>
