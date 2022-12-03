@@ -1,5 +1,6 @@
 ### Hi guys!
 I am 19 years undergrad from India.
+Hackathons X 3
 
 </br>
 
@@ -14,7 +15,9 @@ Node.js </br>
 Solidity </br>
 Ether.js </br>
 IPFS </br>
-Lens Chainlink </br>
+Chainlink </br>
+Axelar </br>
+Lens </br>
 
 </br>
 </br>
