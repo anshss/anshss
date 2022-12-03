@@ -1,6 +1,6 @@
 ### Hi guys!
 I am 19 years undergrad from India.
-Hackathons X 3
+
 
 </br>
 
