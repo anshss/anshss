@@ -16,6 +16,7 @@ Html
 CSS
 JS </br>
 Bootstrap Sass </br>
+Typescript </br>
 React </br>
 Next </br>
 Node.js </br>
