@@ -13,14 +13,13 @@ FVM Spacewarp </br>
 </br>
 
 #### My tech stack:
-Html
-CSS
-JS </br>
+Html CSS JS </br>
 Bootstrap Sass </br>
 Typescript </br>
 React </br>
 Next </br>
 Node.js </br>
+Graphql </br> 
 Solidity </br>
 Ether.js </br>
 IPFS </br>
