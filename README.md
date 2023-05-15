@@ -8,6 +8,8 @@ Polygon BuidlIt 2022 </br>
 Moralis x Filecoin Hackathon </br>
 Chainlink Fall 2022 Hackathon </br>
 FVM Spacewarp </br>
+Solana Grizzlython </br>
+Spheron Dappathon </br>
 
 
 </br>
@@ -17,8 +19,7 @@ Html CSS JS </br>
 Bootstrap Sass </br>
 Typescript </br>
 Tailwind </br>
-React </br>
-Next </br>
+Next.js </br>
 Node.js </br>
 Graphql </br> 
 Solidity </br>
@@ -35,4 +36,4 @@ linkedin: </br>
 https://www.linkedin.com/in/anshss/
 
 portfolio: </br>
-https://anshss.vercel.app/
+https://anshsaxena.me/
