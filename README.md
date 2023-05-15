@@ -16,6 +16,7 @@ FVM Spacewarp </br>
 Html CSS JS </br>
 Bootstrap Sass </br>
 Typescript </br>
+Tailwind </br>
 React </br>
 Next </br>
 Node.js </br>
