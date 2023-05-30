@@ -8,7 +8,7 @@ Polygon BuidlIt 2022 </br>
 Moralis x Filecoin Hackathon </br>
 Chainlink Fall 2022 Hackathon </br>
 FVM Spacewarp </br>
-Solana Grizzlython </br>
+Solana Grizzlython 2023 </br>
 Spheron Dappathon </br>
 
 
