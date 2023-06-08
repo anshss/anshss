@@ -10,6 +10,8 @@ Chainlink Fall 2022 Hackathon </br>
 FVM Spacewarp </br>
 Solana Grizzlython 2023 </br>
 Spheron Dappathon </br>
+FVM Dataverse </br>
+Superfluid Wave Pool #9</br>
 
 
 </br>
