@@ -26,6 +26,7 @@ Node.js </br>
 Graphql </br> 
 Solidity </br>
 Ether.js </br>
+Solana </br>
 
 </br>
 
