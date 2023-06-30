@@ -26,13 +26,21 @@ Node.js </br>
 Graphql </br> 
 Solidity </br>
 Ether.js </br>
+
+</br>
+
+#### Tools/SDKs I have worked with:
 IPFS </br>
+Superfluid </br>
+Huddle01 </br>
+Lens </br>
 Chainlink </br>
 Axelar </br>
-Lens </br>
+
 
 </br>
 </br>
+
 
 linkedin: </br>
 https://www.linkedin.com/in/anshss/
