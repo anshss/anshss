@@ -22,6 +22,17 @@ Hack Web3Conf India '2 </br>
 
 </br>
 
+##### Best Projects
+- [Eventify](https://github.com/Eventifyy/eventify-mvp) - Event ticketing platform  </br>
+- [Mint MyWords](https://github.com/anshss/Mint-my-words) - Alexa skill that mints AI-generated NFTs on Solana blockchain </br>
+- [Stream Fans](https://github.com/anshss/StreamFans) - Stream money through Superfluid to view exclusive content of Lens creators </br>
+- [Teacho](https://github.com/anshss/Teacho) - Live video teaching using Huddle01 while streaming money through Superfluid </br>
+- [SplitWave](https://github.com/SplitWave/splitwave-extension) - Chrome extension to split on-chain payments </br>
+- [Simula](https://github.com/anshss/Simula) - A platform to lend your NFTs or put them as collateral against stable USDT </br>
+- [Agora](https://github.com/anubhav11156/Agora) - A platform to sell digital content like as NFTs </br>
+
+</br>
+
 #### My tech stack:
 
 ###### Frontend
@@ -56,22 +67,10 @@ Huddle01 </br>
 Superfluid </br>
 Spheron </br>
 Lens </br>
-Axelar </br>
 
 </br>
 
-##### Best Projects
-- [Eventify](https://github.com/Eventifyy/eventify-mvp) - Event ticketing platform  </br>
-- [Mint MyWords](https://github.com/anshss/Mint-my-words) - Alexa skill that mints AI-generated NFTs on Solana blockchain </br>
-- [Stream Fans](https://github.com/anshss/StreamFans) - Stream money through Superfluid to view exclusive content of Lens creators </br>
-- [Teacho](https://github.com/anshss/Teacho) - Live video teaching using Huddle01 while streaming money through Superfluid </br>
-- [SplitWave](https://github.com/SplitWave/splitwave-extension) - Chrome extension to split on-chain payments </br>
-- [Simula](https://github.com/anshss/Simula) - A platform to lend your NFTs or put them as collateral against stable USDT </br>
-- [Agora](https://github.com/anubhav11156/Agora) - A platform to sell digital content like as NFTs </br>
-
-</br>
-
-##### Projects
+##### Web3 Projects
 Eventify </br>
 BreezeMint </br>
 Mint MyWords </br>
@@ -90,7 +89,7 @@ Gum3road </br>
 
 </br>
 
-##### Projects
+##### Web2 Projects
 Typescript Shopping Cart </br>
 Responsive Card Design </br>
 AI Image generator </br>
