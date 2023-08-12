@@ -1,9 +1,23 @@
-### Hi guys!
-I am 19 years undergrad from India. 
+## Hey Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+
+<div align="center">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/foreveransh/foreveransh/blob/main/assets/208593.gif">
+</div>
 
 </br>
+</br>
 
-#### Hackathons I have won:
+
+## About ME 💬
+I'm Ansh, a 19-year-old computer science programmer from India. I love to code in my free time.
+
+I have been in development since I graduated my High School. I have explored various fields like solving data structures, competitive programming, web development and blockchain.
+
+</br>
+</br>
+
+
+## Hackathons🏆
 Polygon BuidlIt 2022 </br>
 Moralis x Filecoin Hackathon </br>
 Chainlink Fall 2022 Hackathon </br>
@@ -15,14 +29,18 @@ Superfluid Wave Pool #9 </br>
 Hack Web3Conf India '2 </br>
 
 </br>
+</br>
 
-#### Blogs
+
+## Blogs✏️
 - [API fetch a paws](https://anshss.hashnode.dev/api-fetch-a-paws) </br>
 - [Understanding and Using ERC1155 tokens](https://anshss.hashnode.dev/using-erc1155) </br>
 
 </br>
+</br>
 
-##### Best Projects
+
+## Best Projects🌱
 - [Eventify](https://github.com/Eventifyy/eventify-mvp) - Event ticketing platform  </br>
 - [Mint MyWords](https://github.com/anshss/Mint-my-words) - Alexa skill that mints AI-generated NFTs on Solana blockchain </br>
 - [Stream Fans](https://github.com/anshss/StreamFans) - Stream money through Superfluid to view exclusive content of Lens creators </br>
@@ -32,9 +50,10 @@ Hack Web3Conf India '2 </br>
 - [Agora](https://github.com/anubhav11156/Agora) - A platform to sell digital content like as NFTs </br>
 
 </br>
+</br>
 
-#### My tech stack:
 
+## My Tech Stack👨‍💻
 ###### Frontend
 Html CSS</br>
 Bootstrap Sass </br>
@@ -58,19 +77,19 @@ Java </br>
 Ethereum </br>
 Solana </br>
 
-</br>
-
-#### Tools/SDKs I have worked with:
+###### Tools/SDKs I have worked with:
 IPFS </br>
 Chainlink </br>
 Huddle01 </br>
 Superfluid </br>
 Spheron </br>
 Lens </br>
-
+⚡️
+</br>
 </br>
 
-##### Web3 Projects
+## Few More Projects⚡️
+###### Web3 Projects
 Eventify </br>
 BreezeMint </br>
 Mint MyWords </br>
@@ -87,9 +106,7 @@ FavDevs </br>
 Agora </br>
 Gum3road </br>
 
-</br>
-
-##### Web2 Projects
+###### Web2 Projects
 Typescript Shopping Cart </br>
 Responsive Card Design </br>
 AI Image generator </br>
@@ -98,13 +115,10 @@ TinDog </br>
 Newsletter service using Mailchimp</br>
 React Portfolio </br>
 
-
 </br>
 </br>
 
 
-linkedin: </br>
-https://www.linkedin.com/in/anshss/
-
-portfolio: </br>
-https://anshsaxena.me/
+## Socials✉️
+[Linkedin](https://www.linkedin.com/in/anshss/) </br>
+[Portfolio](https://anshsaxena.me/) </br>
