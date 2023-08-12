@@ -51,12 +51,31 @@ I have been in development since I graduated my High School. I have explored var
 - [Simula](https://github.com/anshss/Simula) - A platform to lend your NFTs or put them as collateral against stable USDT </br>
 - [Agora](https://github.com/anubhav11156/Agora) - A platform to sell digital content as replicable NFTs </br>
 
-</br>
+###### Web3 Projects
+- Eventify </br>
+- BreezeMint </br>
+- Mint MyWords </br>
+- Stream Fans </br>
+- Teacho </br>
+- Linko </br>
+- Gatify </br>
+- Axon </br>
+- SplitWave </br>
+- The Journals DAO </br>
+- Simula </br>
+- Newee </br>
+- FavDevs </br>
+- Agora </br>
+- Gum3road </br>
 
-Web3 Projects|Web2 Projects
-|:-------|:----|
-| Eventify </br>  BreezeMint </br> Mint MyWords </br> Stream Fans </br> Teacho </br> Linko </br>  Gatify </br> Axon </br> SplitWave </br> The Journals DAO </br> Simula </br>  Newee </br> FavDevs </br> Agora </br> Gum3road </br> | Typescript <br/> Shopping Cart </br> Responsive Card Design </br> AI Image Generator </br>  Talk with GPT </br> TinDog </br>  Newsletter service</br> React Portfolio </br> |
-
+###### Web2 Projects
+- Typescript Shopping Cart </br>
+- Responsive Card Design </br>
+- AI Image Generator </br>
+- Talk with GPT </br>
+- TinDog </br>
+- Newsletter service using Mailchimp</br>
+- React Portfolio </br>
 
 </br>
 </br>
