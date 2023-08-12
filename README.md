@@ -17,7 +17,7 @@ I have been in development since I graduated my High School. I have explored var
 </br>
 
 
-## Hackathons🏆
+## Hackathon wins🏆
 Polygon BuidlIt 2022 </br>
 Moralis x Filecoin Hackathon </br>
 Chainlink Fall 2022 Hackathon </br>
@@ -41,13 +41,13 @@ Hack Web3Conf India '2 </br>
 
 
 ## Best Projects🌱
-- [Eventify](https://github.com/Eventifyy/eventify-mvp) - Event ticketing platform  </br>
+- [Eventify](https://github.com/Eventifyy/eventify-mvp) - Offline token-gated events powered by blockchain  </br>
 - [Mint MyWords](https://github.com/anshss/Mint-my-words) - Alexa skill that mints AI-generated NFTs on Solana blockchain </br>
 - [Stream Fans](https://github.com/anshss/StreamFans) - Stream money through Superfluid to view exclusive content of Lens creators </br>
 - [Teacho](https://github.com/anshss/Teacho) - Live video teaching using Huddle01 while streaming money through Superfluid </br>
-- [SplitWave](https://github.com/SplitWave/splitwave-extension) - Chrome extension to split on-chain payments </br>
+- [SplitWave](https://github.com/SplitWave/splitwave-extension) - Chrome extension to split on-chain payments on Solana</br>
 - [Simula](https://github.com/anshss/Simula) - A platform to lend your NFTs or put them as collateral against stable USDT </br>
-- [Agora](https://github.com/anubhav11156/Agora) - A platform to sell digital content like as NFTs </br>
+- [Agora](https://github.com/anubhav11156/Agora) - A platform to sell digital content as replicable NFTs </br>
 
 </br>
 </br>
@@ -84,7 +84,7 @@ Huddle01 </br>
 Superfluid </br>
 Spheron </br>
 Lens </br>
-⚡️
+
 </br>
 </br>
 
