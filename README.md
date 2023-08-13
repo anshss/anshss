@@ -44,7 +44,7 @@ I have been in development since I graduated my High School. I have explored var
 
 ###### Best Projects
 - [Eventify](https://github.com/Eventifyy/eventify-mvp) - Offline token-gated events powered by blockchain  </br>
-- [Mint MyWords](https://github.com/anshss/Mint-my-words) - Alexa skill that mints AI-generated NFTs on Solana blockchain </br>
+- [Mint MyWords](https://github.com/anshss/Mint-MyWords) - Alexa skill that mints AI-generated NFTs on Solana blockchain </br>
 - [Stream Fans](https://github.com/anshss/StreamFans) - Stream money through Superfluid to view exclusive content of Lens creators </br>
 - [Teacho](https://github.com/anshss/Teacho) - Live video teaching using Huddle01 while streaming money through Superfluid </br>
 - [SplitWave](https://github.com/SplitWave/splitwave-extension) - Chrome extension to split on-chain payments on Solana</br>
