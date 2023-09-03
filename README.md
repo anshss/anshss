@@ -45,11 +45,12 @@ I have been in development since I graduated my High School. I have explored var
 ###### Best Projects
 - [Eventify](https://github.com/Eventifyy/eventify-mvp) - Offline token-gated events powered by blockchain  </br>
 - [Mint MyWords](https://github.com/anshss/Mint-MyWords) - Alexa skill that mints AI-generated NFTs on Solana blockchain </br>
+- [Simula](https://github.com/anshss/Simula) - A platform to lend your NFTs or put them as collateral against stable USDT </br>
 - [Stream Fans](https://github.com/anshss/StreamFans) - Stream money through Superfluid to view exclusive content of Lens creators </br>
 - [Teacho](https://github.com/anshss/Teacho) - Live video teaching using Huddle01 while streaming money through Superfluid </br>
 - [SplitWave](https://github.com/SplitWave/splitwave-extension) - Chrome extension to split on-chain payments on Solana</br>
-- [Simula](https://github.com/anshss/Simula) - A platform to lend your NFTs or put them as collateral against stable USDT </br>
 - [Agora](https://github.com/anubhav11156/Agora) - A platform to sell digital content as replicable NFTs </br>
+- [Linko](https://github.com/anshss/Linko) - Generate links and assign backlinks to files uploaded to lighthouse </br>
 
 ###### Web3 Projects
 - Eventify </br>
