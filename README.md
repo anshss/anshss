@@ -27,6 +27,8 @@ I have been in development since I graduated my High School. I have explored var
 - FVM Dataverse </br>
 - Superfluid Wave Pool #9 </br>
 - Hack Web3Conf India '2 </br>
+- Open Data Hacka </br>
+- EthIndia'23 </br>
 
 </br>
 </br>
