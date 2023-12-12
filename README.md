@@ -9,7 +9,7 @@
 
 
 ## About ME 💬
-I'm Ansh, a 19-year-old computer science programmer from India. I love to code in my free time.
+I'm Ansh, a 20-year-old computer science programmer from India. I love to code in my free time.
 
 I have been in development since I graduated my High School. I have explored various fields like solving data structures, competitive programming, web development and blockchain.
 
@@ -35,6 +35,7 @@ I have been in development since I graduated my High School. I have explored var
 
 
 ## Blogs✏️
+- [Simplifying Dataverse: Sovereign Identities](https://anshss.hashnode.dev/simplifying-dataverse-sovereign-identities) </br>
 - [API fetch a paws](https://anshss.hashnode.dev/api-fetch-a-paws) </br>
 - [Understanding and Using ERC1155 tokens](https://anshss.hashnode.dev/using-erc1155) </br>
 
@@ -45,14 +46,15 @@ I have been in development since I graduated my High School. I have explored var
 ## Projects🌱
 
 ###### Best Projects
-- [Eventify](https://github.com/Eventifyy/eventify-mvp) - Offline token-gated events powered by blockchain  </br>
-- [Mint MyWords](https://github.com/anshss/Mint-MyWords) - Alexa skill that mints AI-generated NFTs on Solana blockchain </br>
 - [Simula](https://github.com/anshss/Simula) - A platform to lend your NFTs or put them as collateral against stable USDT </br>
+- [Mint MyWords](https://github.com/anshss/Mint-MyWords) - Alexa skill that mints AI-generated NFTs on Solana blockchain </br>
 - [Stream Fans](https://github.com/anshss/StreamFans) - Stream money through Superfluid to view exclusive content of Lens creators </br>
-- [Teacho](https://github.com/anshss/Teacho) - Live video teaching using Huddle01 while streaming money through Superfluid </br>
 - [SplitWave](https://github.com/SplitWave/splitwave-extension) - Chrome extension to split on-chain payments on Solana</br>
-- [Agora](https://github.com/anubhav11156/Agora) - A platform to sell digital content as replicable NFTs </br>
+- [Teacho](https://github.com/anshss/Teacho) - Live video teaching using Huddle01 while streaming money through Superfluid </br>
 - [Linko](https://github.com/anshss/Linko) - Generate links and assign backlinks to files uploaded to lighthouse </br>
+- [TBAI](https://github.com/anshss/eth23) - Decentralized social media platform leveraging AI generations and TBAs using Graoh substreams and XMTP messaging </br>
+- [Eventify](https://github.com/Eventifyy/eventify-mvp) - Offline token-gated events powered by blockchain  </br>
+- [Agora](https://github.com/anubhav11156/Agora) - A platform to sell digital content as replicable NFTs </br>
 
 ###### Web3 Projects
 - Eventify </br>
@@ -94,8 +96,8 @@ I have been in development since I graduated my High School. I have explored var
 - Javascript </br>
 - Typescript </br>
 - Tailwind </br>
-- React.js </br>
 - Next.js </br>
+- Rest APIs</br>
 
 ###### Backend
 - Node.js </br>
@@ -104,6 +106,7 @@ I have been in development since I graduated my High School. I have explored var
 - Solana/Web3.js </br>
 
 ###### Programming
+- Javascript </br>
 - Solidity </br>
 - Java </br>
 
@@ -118,6 +121,7 @@ I have been in development since I graduated my High School. I have explored var
 - Superfluid </br>
 - Spheron </br>
 - Lens </br>
+- DataverseOS </br>
 
 </br>
 </br>
