@@ -31,7 +31,7 @@ I have been in development since I graduated my High School. I have explored var
 - EthIndia'23 </br>
 - Constellation: A Chainlink Hackathon </br>
 - Rebuild Ownership 2.0: Internet Privacy </br>
-- GreenWim </br>
+- BNBChain Hackathon </br>
 - Akashathon 2.0 </br>
 
 </br>
