@@ -61,6 +61,8 @@ I have been in development since I graduated my High School. I have explored var
 - [Agora](https://github.com/anubhav11156/Agora) - A platform to sell digital content as replicable NFTs </br>
 
 ###### Web3 Projects
+- Hexs </br>
+- GreenWim </br>
 - GenHub </br>
 - TBAI </br>
 - Eventify </br>
