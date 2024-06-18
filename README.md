@@ -61,6 +61,9 @@ I have been in development since I graduated my High School. I have explored var
 - [Agora](https://github.com/anubhav11156/Agora) - A platform to sell digital content as replicable NFTs </br>
 
 ###### Web3 Projects
+
+<img hight="300" alt="GIF" align="right" src="https://github.com/foreveransh/foreveransh/blob/main/assets/13626.gif">
+
 - Hexs </br>
 - GreenWim </br>
 - GenHub </br>
@@ -96,45 +99,21 @@ I have been in development since I graduated my High School. I have explored var
 
 ## My Tech Stack👨‍💻
 
-<img hight="300" alt="GIF" align="right" src="https://github.com/foreveransh/foreveransh/blob/main/assets/13626.gif">
-
 ###### Frontend
-- Html CSS</br>
-- Bootstrap Sass </br>
-- Javascript </br>
-- Typescript </br>
-- Tailwind </br>
-- Next.js </br>
-- Rest APIs</br>
+Html, CSS, Bootstrap, Sass, Javascript, Typescript, Tailwind, Next.js, Rest APIs
 
 ###### Backend
-- Node.js </br>
-- Graphql </br> 
-- Ether.js </br>
-- Solana/Web3.js </br>
+Node.js, Graphql, Ether.js, Solana/Web3.js
 
 ###### Programming
-- Javascript </br>
-- Solidity </br>
-- Java </br>
+Javascript, Solidity, Java
 
 ###### Blockchains
-- Ethereum </br>
-- Solana </br>
+Ethereum, Solana
 
 ###### Tools/SDKs I have worked with:
-- IPFS </br>
-- Chainlink </br>
-- Huddle01 </br>
-- Superfluid </br>
-- Spheron </br>
-- Lens </br>
-- DataverseOS </br>
+IPFS, Chainlink, Huddle01, Superfluid, Spheron, Lens, DataverseOS
 
 </br>
 </br>
 
-
-## Socials✉️
-- [Linkedin](https://www.linkedin.com/in/anshss/) </br>
-- [Portfolio](https://anshsaxena.me/) </br>
