@@ -9,9 +9,7 @@
 
 
 ## About ME 💬
-I'm Ansh, a 20-year-old computer science programmer from India. I love to code in my free time.
-
-I have been in development since I graduated my High School. I have explored various fields like solving data structures, competitive programming, web development and blockchain.
+With over 2 years of experience in blockchain and other domains, I bring a wealth of expertise to the web3 landscape. My core competencies include Solidity, JavaScript, and REST APIs. I excel at identifying innovative use cases and rapidly building MVPs, which has been key to my multiple hackathons winnings in web3.
 
 </br>
 </br>
@@ -43,6 +41,27 @@ I have been in development since I graduated my High School. I have explored var
 - [Simplifying Dataverse: Sovereign Identities](https://anshss.hashnode.dev/simplifying-dataverse-sovereign-identities) </br>
 - [API fetch a paws](https://anshss.hashnode.dev/api-fetch-a-paws) </br>
 - [Understanding and Using ERC1155 tokens](https://anshss.hashnode.dev/using-erc1155) </br>
+
+</br>
+</br>
+
+
+## My Tech Stack👨‍💻
+
+###### Frontend
+Html, CSS, Bootstrap, Sass, Javascript, Typescript, Tailwind, Next.js, Rest APIs
+
+###### Backend
+Node.js, Graphql, Ether.js, Solana/Web3.js
+
+###### Programming
+Javascript, Solidity, Java
+
+###### Blockchains
+Ethereum, Solana
+
+###### Tools/SDKs I have worked with:
+IPFS, Chainlink, Huddle01, Superfluid, Spheron, Lens, DataverseOS
 
 </br>
 </br>
@@ -94,27 +113,6 @@ I have been in development since I graduated my High School. I have explored var
 - TinDog </br>
 - Newsletter service using Mailchimp</br>
 - React Portfolio </br>
-
-</br>
-</br>
-
-
-## My Tech Stack👨‍💻
-
-###### Frontend
-Html, CSS, Bootstrap, Sass, Javascript, Typescript, Tailwind, Next.js, Rest APIs
-
-###### Backend
-Node.js, Graphql, Ether.js, Solana/Web3.js
-
-###### Programming
-Javascript, Solidity, Java
-
-###### Blockchains
-Ethereum, Solana
-
-###### Tools/SDKs I have worked with:
-IPFS, Chainlink, Huddle01, Superfluid, Spheron, Lens, DataverseOS
 
 </br>
 </br>
