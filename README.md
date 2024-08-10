@@ -9,7 +9,7 @@
 
 
 ## About ME 💬
-With over 2 years of experience in blockchain and other domains, I bring a wealth of expertise to the web3 landscape. My core competencies include Solidity, JavaScript, and REST APIs. I excel at identifying innovative use cases and rapidly building MVPs, which has been key to my multiple hackathons winnings in web3.
+My core competencies include Solidity, JavaScript, and REST APIs. 
 
 </br>
 </br>
