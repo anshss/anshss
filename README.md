@@ -71,15 +71,16 @@ IPFS, Chainlink, Huddle01, Superfluid, Spheron, Lens, DataverseOS
 ## Projects🌱
 
 ###### Best Projects
+- [Hexs](https://github.com/anshss/hexs) - Distributed ownership of AI models to offer fair incentives through chain-driven training. </br>
+- [PromptReality](https://github.com/anshss/PromptReality) - A platform for creating AI experiences in Mixed Reality </br>
 - [Simula](https://github.com/anshss/Simula) - A platform to lend your NFTs or put them as collateral against stable USDT </br>
 - [Mint MyWords](https://github.com/anshss/Mint-MyWords) - Alexa skill that mints AI-generated NFTs on Solana blockchain </br>
 - [Stream Fans](https://github.com/anshss/StreamFans) - Stream money through Superfluid to view exclusive content of Lens creators </br>
-- [SplitWave](https://github.com/SplitWave/splitwave-extension) - Chrome extension to split on-chain payments on Solana</br>
 - [Teacho](https://github.com/anshss/Teacho) - Live video teaching using Huddle01 while streaming money through Superfluid </br>
-- [Linko](https://github.com/anshss/Linko) - Generate links and assign backlinks to files uploaded to lighthouse </br>
-- [TBAI](https://github.com/anshss/eth23) - Decentralized social media platform leveraging AI generations and TBAs using Graoh substreams and XMTP messaging </br>
-- [Eventify](https://github.com/Eventifyy/eventify-mvp) - Offline token-gated events powered by blockchain  </br>
-- [Agora](https://github.com/anubhav11156/Agora) - A platform to sell digital content as replicable NFTs </br>
+- [Linko](https://github.com/anshss/Linko) - Link management and files marketplace platform to generate new links and later upload files using Lighthouse </br>
+- [TBAI](https://github.com/anshss/eth23) - Decentralized social media platform leveraging AI generations and TBAs using Graph substreams and XMTP messaging </br>
+- [Eventify](https://github.com/anshss/eventify-hackweb3conf) - Offline token-gated events powered by blockchain  </br>
+- [Agora](https://github.com/anshss/Agora) - A platform to sell digital content as replicable NFTs </br>
 
 ###### Web3 Projects
 
