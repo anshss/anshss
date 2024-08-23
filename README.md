@@ -17,27 +17,28 @@ My core competencies include Solidity, JavaScript, and REST APIs.
 
 ## Hackathon wins🏆
 - [Polygon BuidlIt 2022](https://devpost.com/software/gum3road) </br>
-- [Moralis x Filecoin Hackathon]() </br>
+- [Moralis x Filecoin Hackathon](https://moralis.io/filecoin-hackathon/winners/) </br>
 - [Chainlink Fall 2022 Hackathon](https://devpost.com/software/simula) </br>
-- [FVM Spacewarp]() </br>
-- [Solana Grizzlython 2023]() </br>
-- [Spheron Dappathon]() </br>
-- [FVM Dataverse] </br>
-- [Superfluid Wave Pool #9] </br>
-- [Hack Web3Conf India '2] </br>
-- [Open Data Hack] </br>
-- [EthIndia'23] </br>
-- [Constellation: A Chainlink Hackathon] </br>
-- [Rebuild Ownership 2.0: Internet Privacy] </br>
-- [BNBChain Hackathon] </br>
-- [Akashathon 2.0] </br>
-- [Block Magic: A Chainlink Hackathon] </br>
+- [FVM Spacewarp](https://ethglobal.com/showcase/the-journals-dao-6rzrn) </br>
+- [Solana Grizzlython 2023](https://x.com/solana/status/1644346050180685825) </br>
+- [Spheron Dappathon](https://devpost.com/software/eventify-27gui0) </br>
+- [FVM Dataverse](https://devpost.com/software/linko) </br>
+- [Superfluid Wave Pool #9](https://x.com/Superfluid_HQ/status/1664726115376611337) </br>
+- [Hack Web3Conf India '2](https://devfolio.co/projects/eventify-50ed) </br>
+- [Open Data Hack](https://x.com/DataverseOS/status/1713912750441742368) </br>
+- [EthIndia'23](https://devfolio.co/projects/tbai-0d73) </br>
+- [Constellation: A Chainlink Hackathon](https://devpost.com/software/merlin-p81e4j) </br>
+- [Rebuild Ownership 2.0: Internet Privacy](https://x.com/DataverseOS/status/1742125914350370967) </br>
+- [BNBChain Hackathon](https://dorahacks.io/buidl/10616) </br>
+- [Akashathon 2.0](https://dorahacks.io/buidl/12754) </br>
+- [Block Magic: A Chainlink Hackathon](https://devpost.com/software/promptreality) </br>
 
 </br>
 </br>
 
 
 ## Blogs✏️
+- [Simplifying Lit](https://anshss.hashnode.dev/simplifying-lit) </br>
 - [Simplifying Dataverse: Sovereign Identities](https://anshss.hashnode.dev/simplifying-dataverse-sovereign-identities) </br>
 - [API fetch a paws](https://anshss.hashnode.dev/api-fetch-a-paws) </br>
 - [Understanding and Using ERC1155 tokens](https://anshss.hashnode.dev/using-erc1155) </br>
