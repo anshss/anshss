@@ -71,7 +71,7 @@ IPFS, Chainlink, Huddle01, Superfluid, Spheron, Lens, DataverseOS, Lighthouse, L
 ## Projects🌱
 
 ###### Best Projects
-- [Hexs](https://github.com/anshss/hexs) - Distributed ownership of AI models to offer fair incentives through chain-driven training. </br>
+- [Hexs](https://github.com/anshss/Hexs) - Distributed ownership of AI models to offer fair incentives through chain-driven training. </br>
 - [PromptReality](https://github.com/anshss/PromptReality) - A platform for creating AI experiences in Mixed Reality </br>
 - [Simula](https://github.com/anshss/Simula) - A platform to lend your NFTs or put them as collateral against stable USDT </br>
 - [Mint MyWords](https://github.com/anshss/Mint-MyWords) - Alexa skill that mints AI-generated NFTs on Solana blockchain </br>
