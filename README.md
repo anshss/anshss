@@ -62,7 +62,7 @@ Javascript, Solidity, Java
 Ethereum, Solana
 
 ###### Tools/SDKs I have worked with:
-IPFS, Chainlink, Huddle01, Superfluid, Spheron, Lens, DataverseOS
+IPFS, Chainlink, Huddle01, Superfluid, Spheron, Lens, DataverseOS, Lighthouse, Lit
 
 </br>
 </br>
