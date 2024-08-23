@@ -9,7 +9,7 @@
 
 
 ## About ME 💬
-My core competencies include Solidity, JavaScript, and REST APIs. 
+My core competencies include JavaScript, REST APIs, and Solidity. 
 
 </br>
 </br>
