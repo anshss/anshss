@@ -36,6 +36,11 @@ My core competencies include JavaScript, REST APIs, and Solidity.
 </br>
 </br>
 
+## Grants
+- Aleo foundation grant
+- Stellar ecosystem grant
+</br>
+</br>
 
 ## Blogs✏️
 - [Simplifying Lit](https://anshss.hashnode.dev/simplifying-lit) </br>
