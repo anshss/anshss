@@ -37,9 +37,10 @@ My core competencies include JavaScript, REST APIs, and Solidity.
 </br>
 
 ## Grants
-- Aleo Foundation grants
-- Superteam grants
-- Stellar Ecosystem grants
+- [Aleo Foundation](https://github.com/IKnowSpots/application-aleo): Ticketing on Aleo with private events only visible to shortlisted using Aleo's zero knowledge
+- [Superteam](https://github.com/orgs/SatMeshLabs/repositories): DePin Satellite Network of Nodes communicating over LoRa
+- [Stellar Ecosystem](https://github.com/SplitBitsLabs): Payments Splitting application for settling off-chain expenses on-chain
+  
 </br>
 </br>
 
