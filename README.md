@@ -37,8 +37,9 @@ My core competencies include JavaScript, REST APIs, and Solidity.
 </br>
 
 ## Grants
-- Aleo foundation grant
-- Stellar ecosystem grant
+- Aleo Foundation grants
+- Superteam grants
+- Stellar Ecosystem grants
 </br>
 </br>
 
