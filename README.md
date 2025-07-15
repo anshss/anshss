@@ -57,27 +57,6 @@ Areas of interest: Web3, AI, Cloud
 </br>
 
 
-## My Tech Stack👨‍💻
-
-###### Frontend
-Html, CSS, Bootstrap, Sass, Javascript, Typescript, Tailwind, Next.js, Rest APIs
-
-###### Backend
-Node.js, Graphql, Ether.js, Solana/Web3.js
-
-###### Programming
-Javascript, Solidity, Java
-
-###### Blockchains
-Ethereum, Solana
-
-###### Tools/SDKs I have worked with:
-IPFS, Chainlink, Huddle01, Superfluid, Spheron, Lens, DataverseOS, Lighthouse, Lit
-
-</br>
-</br>
-
-
 ## Projects🌱
 
 ###### Best Projects
@@ -96,6 +75,10 @@ IPFS, Chainlink, Huddle01, Superfluid, Spheron, Lens, DataverseOS, Lighthouse, L
 
 <img hight="300" alt="GIF" align="right" src="https://github.com/foreveransh/foreveransh/blob/main/assets/13626.gif">
 
+- Aquanode </br>
+- Splito </br>
+- Meowtrades </br>
+- TachyonX </br>
 - PromptReality </br>
 - Hexs </br>
 - GreenWim </br>
