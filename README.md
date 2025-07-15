@@ -17,6 +17,8 @@ Areas of interest: Web3, AI, Cloud
 
 
 ## Hackathon wins🏆
+- [Colosseum Breakout 2025](https://github.com/Aquanodeio) </br>
+- [Stellar Builders Camp](https://github.com/TachyonxRWA) </br>
 - [Block Magic: A Chainlink Hackathon](https://devpost.com/software/promptreality) </br>
 - [Akashathon 2.0](https://dorahacks.io/buidl/12754) </br>
 - [BNBChain Hackathon](https://dorahacks.io/buidl/10616) </br>
