@@ -79,7 +79,7 @@ Areas of interest: Web3, AI, Cloud
 
 - [TachyonX](https://github.com/TachyonxRWA) </br>
 - [GreenWim](https://github.com/anshss/GreenWim) </br>
-- [GenHub](https://github.com/anshss/GenHub-Rebuild-ownership) </br>
+- [GenHub](https://github.com/anshss/GenHub-Rebuild-Ownersership) </br>
 - [Gatify](https://github.com/anshss/Gatify) </br>
 - [Axon](https://github.com/anshss/Axon) </br>
 - [SplitWave](https://github.com/anshss/splitwave-extension) </br>
