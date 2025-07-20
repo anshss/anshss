@@ -56,12 +56,11 @@ Areas of interest: Web3, AI, Cloud
 </br>
 </br>
 
-- [Aquanode](https://github.com/Aquanodeio) </br>
-- [Meowtrades](https://github.com/meowtrades) </br>
-
 ## Projects🌱
 
 ###### Best Projects
+- [Aquanode](https://github.com/Aquanodeio) - AI-native Cloud</br>
+- [Meowtrades](https://github.com/meowtrades) - Trading Strategies on Injective powered by AI </br>
 - [Hexs](https://github.com/anshss/Hexs) - Distributed ownership of AI models to offer fair incentives through chain-driven training. </br>
 - [PromptReality](https://github.com/anshss/PromptReality) - A platform for creating AI experiences in Mixed Reality </br>
 - [Simula](https://github.com/anshss/Simula) - A platform to lend your NFTs or put them as collateral against stable USDT </br>
@@ -80,6 +79,7 @@ Areas of interest: Web3, AI, Cloud
 - [TachyonX](https://github.com/TachyonxRWA) </br>
 - [GreenWim](https://github.com/anshss/GreenWim) </br>
 - [GenHub](https://github.com/anshss/GenHub-Rebuild-Ownersership) </br>
+- [BlavoDAO](https://github.com/anshss/BlavoDAO) </br>
 - [Gatify](https://github.com/anshss/Gatify) </br>
 - [Axon](https://github.com/anshss/Axon) </br>
 - [SplitWave](https://github.com/anshss/splitwave-extension) </br>
@@ -90,13 +90,13 @@ Areas of interest: Web3, AI, Cloud
 - [Gum3road](https://github.com/anshss/Gum3road) </br>
 
 ###### Web2 Projects
-- Typescript Shopping Cart </br>
-- Responsive Card Design </br>
-- AI Image Generator </br>
-- Talk with GPT </br>
-- TinDog </br>
-- Newsletter service using Mailchimp</br>
-- React Portfolio </br>
+- [Typescript Shopping Cart](https://github.com/anshss/ShoppingCart) </br>
+- [Responsive Card Design](https://github.com/anshss/Reactjs_card_design) </br>
+- [AI Image Generator](https://github.com/anshss/AiImages) </br>
+- [Talk with GPT](https://github.com/anshss/GptSpeak) </br>
+- [TinDog](https://github.com/anshss/TinDog) </br>
+- [Newsletter service using Mailchimp](https://github.com/anshss/Newsletter) </br>
+- [React Portfolio](https://github.com/anshss/ReactProtfolio) </br>
 
 </br>
 </br>
