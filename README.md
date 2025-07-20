@@ -56,6 +56,8 @@ Areas of interest: Web3, AI, Cloud
 </br>
 </br>
 
+- [Aquanode](https://github.com/Aquanodeio) </br>
+- [Meowtrades](https://github.com/meowtrades) </br>
 
 ## Projects🌱
 
@@ -68,37 +70,24 @@ Areas of interest: Web3, AI, Cloud
 - [Teacho](https://github.com/anshss/Teacho) - Live video teaching using Huddle01 while streaming money through Superfluid </br>
 - [Linko](https://github.com/anshss/Linko) - Link management and files marketplace platform to generate new links and later upload files using Lighthouse </br>
 - [TBAI](https://github.com/anshss/eth23) - Decentralized social media platform leveraging AI generations and TBAs using Graph substreams and XMTP messaging </br>
-- [Eventify](https://github.com/anshss/eventify-hackweb3conf) - Offline token-gated events powered by blockchain  </br>
+- [Eventify](https://github.com/anshss/eventify-dappathon) - Token-gated events powered by blockchain  </br>
 - [Agora](https://github.com/anshss/Agora) - A platform to sell digital content as replicable NFTs </br>
 
-###### Web3 Projects
+###### More Web3 Projects
 
 <img hight="300" alt="GIF" align="right" src="https://github.com/foreveransh/foreveransh/blob/main/assets/13626.gif">
 
-- Aquanode </br>
-- Splito </br>
-- Meowtrades </br>
-- TachyonX </br>
-- PromptReality </br>
-- Hexs </br>
-- GreenWim </br>
-- GenHub </br>
-- TBAI </br>
-- Eventify </br>
-- BreezeMint </br>
-- Mint MyWords </br>
-- Stream Fans </br>
-- Teacho </br>
-- Linko </br>
-- Gatify </br>
-- Axon </br>
-- SplitWave </br>
-- The Journals DAO </br>
-- Simula </br>
-- Newee </br>
-- FavDevs </br>
-- Agora </br>
-- Gum3road </br>
+- [TachyonX](https://github.com/TachyonxRWA) </br>
+- [GreenWim](https://github.com/anshss/GreenWim) </br>
+- [GenHub](https://github.com/anshss/GenHub-Rebuild-ownership) </br>
+- [Gatify](https://github.com/anshss/Gatify) </br>
+- [Axon](https://github.com/anshss/Axon) </br>
+- [SplitWave](https://github.com/anshss/splitwave-extension) </br>
+- [The Journals DAO](https://github.com/anshss/TheJournalsDao) </br>
+- [Simula](https://github.com/anshss/Simula) </br>
+- [Newee](https://github.com/anshss/Newee) </br>
+- [FavDevs](https://github.com/anshss/FavDevs) </br>
+- [Gum3road](https://github.com/anshss/Gum3road) </br>
 
 ###### Web2 Projects
 - Typescript Shopping Cart </br>
