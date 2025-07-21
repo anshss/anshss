@@ -1,6 +1,6 @@
-## About ME 💬
-My core competencies include JavaScript, Typescript, REST APIs, and Solidity. </br>
-Areas of interest: Web3, AI, Cloud
+## About Me 💬
+Core competencies includes JavaScript, Typescript, REST APIs, and Solidity. </br>
+Areas of interest: Web3, AI, and Cloud.
 
 </br>
 </br>
