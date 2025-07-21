@@ -1,13 +1,3 @@
-<!-- ## Hey Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-
-<div align="center">
- <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/foreveransh/foreveransh/blob/main/assets/208593.gif">
-</div>
-
-</br>
-</br> -->
-
-
 ## About ME 💬
 My core competencies include JavaScript, Typescript, REST APIs, and Solidity. </br>
 Areas of interest: Web3, AI, Cloud
@@ -37,14 +27,12 @@ Areas of interest: Web3, AI, Cloud
 - [Polygon BuidlIt 2022](https://devpost.com/software/gum3road) </br>
 
 </br>
-</br>
 
 ## Grants & Experiments🚀
 - [Stellar Ecosystem](https://github.com/Splitoio): Payments Splitting application for settling off-chain expenses on-chain
 - [Superteam](https://github.com/orgs/SatMeshLabs/repositories): DePin Satellite Network of Nodes communicating over LoRa
 - [Aleo Foundation](https://github.com/IKnowSpots/application-aleo): Ticketing on Aleo with private events only visible to shortlisted using Aleo's zero knowledge
   
-</br>
 </br>
 
 ## Blogs✏️
@@ -53,7 +41,6 @@ Areas of interest: Web3, AI, Cloud
 - [API fetch a paws](https://anshss.hashnode.dev/api-fetch-a-paws) </br>
 - [Understanding and Using ERC1155 tokens](https://anshss.hashnode.dev/using-erc1155) </br>
 
-</br>
 </br>
 
 ## Projects🌱
