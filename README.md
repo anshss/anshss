@@ -58,7 +58,7 @@ Areas of interest: Web3, AI, Cloud
 
 ## Projects🌱
 
-###### Best Projects
+#### Top Picks
 - [Aquanode](https://github.com/Aquanodeio) - AI-native Cloud</br>
 - [Meowtrades](https://github.com/meowtrades) - AI-powered trading strategies built on Injective’s on-chain orderbook </br>
 - [Hexs](https://github.com/anshss/Hexs) - Distributed ownership of AI models to offer fair incentives through chain-driven training. </br>
@@ -72,9 +72,8 @@ Areas of interest: Web3, AI, Cloud
 - [Linko](https://github.com/anshss/Linko) - Shorten links and share files with crypto incentives, powered by Tellor and Lighthouse </br>
 - [Agora](https://github.com/anshss/Agora) - Sell digital content as replicable, ownable NFTs with built-in monetization and royalty support </br>
 
-###### More Web3 Projects
-
-<img hight="300" alt="GIF" align="right" src="https://github.com/foreveransh/foreveransh/blob/main/assets/13626.gif">
+<details>
+<summary>Dapps</summary>
 
 - [TachyonX](https://github.com/TachyonxRWA) </br>
 - [GreenWim](https://github.com/anshss/GreenWim) </br>
@@ -84,12 +83,15 @@ Areas of interest: Web3, AI, Cloud
 - [Axon](https://github.com/anshss/Axon) </br>
 - [SplitWave](https://github.com/anshss/splitwave-extension) </br>
 - [The Journals DAO](https://github.com/anshss/TheJournalsDao) </br>
-- [Simula](https://github.com/anshss/Simula) </br>
 - [Newee](https://github.com/anshss/Newee) </br>
 - [FavDevs](https://github.com/anshss/FavDevs) </br>
 - [Gum3road](https://github.com/anshss/Gum3road) </br>
 
-###### Web2 Projects
+</details>
+
+<details>
+<summary>Web2 Throwbacks</summary>
+ 
 - [Typescript Shopping Cart](https://github.com/anshss/ShoppingCart) </br>
 - [Responsive Card Design](https://github.com/anshss/Reactjs_card_design) </br>
 - [AI Image Generator](https://github.com/anshss/AiImages) </br>
@@ -97,6 +99,8 @@ Areas of interest: Web3, AI, Cloud
 - [TinDog](https://github.com/anshss/TinDog) </br>
 - [Newsletter service using Mailchimp](https://github.com/anshss/Newsletter) </br>
 - [React Portfolio](https://github.com/anshss/ReactProtfolio) </br>
+
+</details>
 
 </br>
 </br>
