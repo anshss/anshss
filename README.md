@@ -60,17 +60,17 @@ Areas of interest: Web3, AI, Cloud
 
 ###### Best Projects
 - [Aquanode](https://github.com/Aquanodeio) - AI-native Cloud</br>
-- [Meowtrades](https://github.com/meowtrades) - Trading Strategies on Injective powered by AI </br>
+- [Meowtrades](https://github.com/meowtrades) - AI-powered trading strategies built on Injective’s on-chain orderbook </br>
 - [Hexs](https://github.com/anshss/Hexs) - Distributed ownership of AI models to offer fair incentives through chain-driven training. </br>
-- [PromptReality](https://github.com/anshss/PromptReality) - A platform for creating AI experiences in Mixed Reality </br>
-- [Simula](https://github.com/anshss/Simula) - A platform to lend your NFTs or put them as collateral against stable USDT </br>
-- [Mint MyWords](https://github.com/anshss/Mint-MyWords) - Alexa skill that mints AI-generated NFTs on Solana blockchain </br>
-- [Stream Fans](https://github.com/anshss/StreamFans) - Stream money through Superfluid to view exclusive content of Lens creators </br>
-- [Teacho](https://github.com/anshss/Teacho) - Live video teaching using Huddle01 while streaming money through Superfluid </br>
-- [Linko](https://github.com/anshss/Linko) - Link management and files marketplace platform to generate new links and later upload files using Lighthouse </br>
-- [TBAI](https://github.com/anshss/eth23) - Decentralized social media platform leveraging AI generations and TBAs using Graph substreams and XMTP messaging </br>
-- [Eventify](https://github.com/anshss/eventify-dappathon) - Token-gated events powered by blockchain  </br>
-- [Agora](https://github.com/anshss/Agora) - A platform to sell digital content as replicable NFTs </br>
+- [PromptReality](https://github.com/anshss/PromptReality) - Prompt to create tradable AI-generated VR objects as NFTs, rendered in mixed reality </br>
+- [IKnowSpots](https://github.com/IKnowSpots) - User-friendly decentralized ticketing platform with self-owned contracts, private allowlists, and full event control </br>
+- [Simula](https://github.com/anshss/Simula) - Collateralize or lend NFTs to unlock liquidity in stable USDT </br>
+- [TBAI](https://github.com/anshss/eth23) - AI-native decentralized social network using TBAs (Token Bound Accounts), Graph substreams, and XMTP </br>
+- [Mint MyWords](https://github.com/anshss/Mint-MyWords) - Alexa skill that turns spoken prompts into AI-generated NFTs on Solana </br>
+- [Stream Fans](https://github.com/anshss/StreamFans) - Unlock exclusive content from Lens creators by streaming payments via Superfluid </br>
+- [Teacho](https://github.com/anshss/Teacho) - Host live video classes with real-time payment streaming via Superfluid and Huddle01 </br>
+- [Linko](https://github.com/anshss/Linko) - Shorten links and share files with crypto incentives, powered by Tellor and Lighthouse </br>
+- [Agora](https://github.com/anshss/Agora) - Sell digital content as replicable, ownable NFTs with built-in monetization and royalty support </br>
 
 ###### More Web3 Projects
 
