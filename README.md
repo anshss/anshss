@@ -31,7 +31,7 @@ Areas of interest: Web3, AI, and Cloud.
 ## Grants & Experiments🚀
 - [Stellar Ecosystem](https://github.com/Splitoio): Payments Splitting application for settling off-chain expenses on-chain
 - [Superteam](https://github.com/orgs/SatMeshLabs/repositories): DePin Satellite Network of Nodes communicating over LoRa
-- [Mercatus Center & Superteam](https://github.com/orgs/SatMeshLabs/repositories): Transforms any GPU into AWS-like instances
+- [Mercatus Center & Superteam](https://github.com/Aquanodeio): Transforms any GPU into AWS-like instances
 - [Aleo Foundation](https://github.com/IKnowSpots/application-aleo): Ticketing on Aleo with private events only visible to shortlisted using Aleo's zero knowledge
   
 </br>
