@@ -31,6 +31,7 @@ Areas of interest: Web3, AI, and Cloud.
 ## Grants & Experiments🚀
 - [Stellar Ecosystem](https://github.com/Splitoio): Payments Splitting application for settling off-chain expenses on-chain
 - [Superteam](https://github.com/orgs/SatMeshLabs/repositories): DePin Satellite Network of Nodes communicating over LoRa
+- [Mercatus Center & Superteam](https://github.com/orgs/SatMeshLabs/repositories): Transforms any GPU into AWS-like instances
 - [Aleo Foundation](https://github.com/IKnowSpots/application-aleo): Ticketing on Aleo with private events only visible to shortlisted using Aleo's zero knowledge
   
 </br>
@@ -46,7 +47,7 @@ Areas of interest: Web3, AI, and Cloud.
 ## Projects🌱
 
 #### Top Picks
-- [Aquanode](https://github.com/Aquanodeio) - AI-native Cloud</br>
+- [Aquanode](https://github.com/Aquanodeio) - AI-native Cloud </br>
 - [Meowtrades](https://github.com/meowtrades) - AI-powered trading strategies built on Injective’s on-chain orderbook </br>
 - [Hexs](https://github.com/anshss/Hexs) - Distributed ownership of AI models to offer fair incentives through chain-driven training. </br>
 - [PromptReality](https://github.com/anshss/PromptReality) - Prompt to create tradable AI-generated VR objects as NFTs, rendered in mixed reality </br>
