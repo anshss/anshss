@@ -7,6 +7,7 @@ Areas of interest: Web3, AI, and Cloud.
 
 
 ## Hackathon wins🏆
+- [Stacks Hacker House](https://github.com/Yashodeeps/stacks-agent-kit) <br>
 - [Colosseum Breakout 2025](https://x.com/solana/status/1940442221201035627) </br>
 - [Stellar Builders Camp](https://www.linkedin.com/posts/anshss_this-was-me-pitching-at-the-risein-x-stellar-activity-7347809757950353410-o8YX?utm_source=share&utm_medium=member_desktop&rcm=ACoAADZdAKcBdjBPTUKdvdGzUepMO-rHiQXe6Qc) </br>
 - [Block Magic: A Chainlink Hackathon](https://devpost.com/software/promptreality) </br>
