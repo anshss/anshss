@@ -30,10 +30,10 @@ Areas of interest: Web3, AI, and Cloud.
 </br>
 
 ## Grants & Experiments🚀
-- [Stellar Ecosystem](https://github.com/Splitoio): Payments Splitting application for settling off-chain expenses on-chain
-- [Superteam](https://github.com/orgs/SatMeshLabs/repositories): DePin Satellite Network of Nodes communicating over LoRa
-- [Mercatus Center & Superteam](https://github.com/Aquanodeio): Transforms any GPU into AWS-like instances
-- [Aleo Foundation](https://github.com/IKnowSpots/application-aleo): Privacy-preserving ticketing infrastructure with programmable NFT credentials on Aleo
+- [Stellar Ecosystem](https://github.com/Splitoio): Payments Splitting application for settling off-chain expenses on-chain.
+- [Superteam](https://github.com/orgs/SatMeshLabs/repositories): DePin Satellite Network of Nodes communicating over LoRa.
+- [Mercatus Center & Superteam](https://github.com/Aquanodeio): Transforms any GPU into AWS-like instances.
+- [Aleo Foundation](https://github.com/IKnowSpots/application-aleo): Privacy-preserving ticketing infrastructure with programmable NFT credentials on Aleo.
   
 </br>
 
@@ -52,7 +52,7 @@ Areas of interest: Web3, AI, and Cloud.
 - [Meowtrades](https://github.com/meowtrades) - AI-powered trading strategies built on Injective’s on-chain orderbook. </br>
 - [Hexs](https://github.com/anshss/Hexs) - Enables distributed ownership of AI models on Ethereum for deployments on Akash. </br>
 - [PromptReality](https://github.com/anshss/PromptReality) - Prompt to create tradable AI-generated VR objects as NFTs, rendered in mixed reality. </br>
-- [IKnowSpots](https://github.com/IKnowSpots) - User-friendly decentralized ticketing platform with self-owned contracts, private allowlists, and full event control. </br>
+- [IKnowSpots](https://github.com/IKnowSpots) - Privacy-preserving ticketing infrastructure with programmable NFT credentials on Aleo. </br>
 - [Simula](https://github.com/anshss/Simula) - Collateralize or lend NFTs to unlock liquidity in stable USDT. </br>
 - [TBAI](https://github.com/anshss/eth23) - AI-native decentralized social network using TBAs (Token Bound Accounts), Graph substreams, and XMTP. </br>
 - [Mint MyWords](https://github.com/anshss/Mint-MyWords) - Alexa skill that turns spoken prompts into AI-generated NFTs on Solana. </br>
