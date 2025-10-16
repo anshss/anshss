@@ -48,18 +48,18 @@ Areas of interest: Web3, AI, and Cloud.
 ## Projects🌱
 
 #### Top Picks
-- [Aquanode](https://github.com/Aquanodeio) - AI-native Cloud </br>
-- [Meowtrades](https://github.com/meowtrades) - AI-powered trading strategies built on Injective’s on-chain orderbook </br>
-- [Hexs](https://github.com/anshss/Hexs) - Distributed ownership of AI models to offer fair incentives through chain-driven training. </br>
-- [PromptReality](https://github.com/anshss/PromptReality) - Prompt to create tradable AI-generated VR objects as NFTs, rendered in mixed reality </br>
-- [IKnowSpots](https://github.com/IKnowSpots) - User-friendly decentralized ticketing platform with self-owned contracts, private allowlists, and full event control </br>
-- [Simula](https://github.com/anshss/Simula) - Collateralize or lend NFTs to unlock liquidity in stable USDT </br>
-- [TBAI](https://github.com/anshss/eth23) - AI-native decentralized social network using TBAs (Token Bound Accounts), Graph substreams, and XMTP </br>
-- [Mint MyWords](https://github.com/anshss/Mint-MyWords) - Alexa skill that turns spoken prompts into AI-generated NFTs on Solana </br>
-- [Stream Fans](https://github.com/anshss/StreamFans) - Unlock exclusive content from Lens creators by streaming payments via Superfluid </br>
-- [Teacho](https://github.com/anshss/Teacho) - Host live video classes with real-time payment streaming via Superfluid and Huddle01 </br>
-- [Linko](https://github.com/anshss/Linko) - Shorten links and share files with crypto incentives, powered by Tellor and Lighthouse </br>
-- [Agora](https://github.com/anshss/Agora) - Sell digital content as replicable, ownable NFTs with built-in monetization and royalty support </br>
+- [Aquanode](https://github.com/Aquanodeio) - Unified GPU Marketplace with integrated tools. </br>
+- [Meowtrades](https://github.com/meowtrades) - AI-powered trading strategies built on Injective’s on-chain orderbook. </br>
+- [Hexs](https://github.com/anshss/Hexs) - Enables distributed ownership of AI models on Ethereum for deployments on Akash. </br>
+- [PromptReality](https://github.com/anshss/PromptReality) - Prompt to create tradable AI-generated VR objects as NFTs, rendered in mixed reality. </br>
+- [IKnowSpots](https://github.com/IKnowSpots) - User-friendly decentralized ticketing platform with self-owned contracts, private allowlists, and full event control. </br>
+- [Simula](https://github.com/anshss/Simula) - Collateralize or lend NFTs to unlock liquidity in stable USDT. </br>
+- [TBAI](https://github.com/anshss/eth23) - AI-native decentralized social network using TBAs (Token Bound Accounts), Graph substreams, and XMTP. </br>
+- [Mint MyWords](https://github.com/anshss/Mint-MyWords) - Alexa skill that turns spoken prompts into AI-generated NFTs on Solana. </br>
+- [Stream Fans](https://github.com/anshss/StreamFans) - Unlock exclusive content from Lens creators by streaming payments via Superfluid. </br>
+- [Teacho](https://github.com/anshss/Teacho) - Host live video classes with real-time payment streaming via Superfluid and Huddle01. </br>
+- [Linko](https://github.com/anshss/Linko) - Shorten links and share files with crypto incentives, powered by Tellor and Lighthouse. </br>
+- [Agora](https://github.com/anshss/Agora) - Sell digital content as replicable, ownable NFTs with built-in monetization and royalty support. </br>
 
 <details>
 <summary>Dapps</summary>
